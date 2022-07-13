@@ -12,8 +12,7 @@ For Windows please install the SDK from Microsoft https://dotnet.microsoft.com/e
 
 To compile the project for the first time run the commands
 
-`dotnet restore`
-`dotnet build`
+`dotnet restore`  `dotnet build`
 
 To execute the program:
 

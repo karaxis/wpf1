@@ -24,7 +24,7 @@ For Linux please install the SDK as described on the official Microsoft webpage 
 
 To compile the project for the first time run the commands
 
-`dotnet restore`
+`dotnet restore`<br>
 `dotnet build /PATH/TO/wpf1.csproj --runtime linux-x64`
 
 To execute the program: 
